@@ -21,7 +21,7 @@
 
 ---
 
-#  [LIVE_PROTOTYPE](source_file/index.html)
+#  [LIVE_PROTOTYPE](https://t4wf1q-tq.github.io/examora/source_file/index.html)
 
 ## Table of Contents
 
